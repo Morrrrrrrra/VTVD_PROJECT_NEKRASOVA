@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Сумка-багет оригінальної форми",
+        "color": "Коричневий",
+        "price": 1290,
+        "stock": 5,
+        "image": "img5.webp",
+        "gallery": [
+            { "src": "img6.webp", "caption": "На моделі" },
+            { "src": "img7.webp", "caption": "Фурнітура" },
+            { "src": "img8.webp", "caption": "Вигляд ззаду" },
+            { "src": "img9.webp", "caption": "Всередині" }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Сумка-багет оригінальної форми",
+        "color": "Молочний",
+        "price": 1290,
+        "stock": 3,
+        "image": "img10.webp",
+        "gallery": [
+            { "src": "img11.webp", "caption": "На моделі" },
+            { "src": "img12.webp", "caption": "Фурнітура" },
+            { "src": "img13.webp", "caption": "Вигляд ззаду" },
+            { "src": "img14.webp", "caption": "Всередині" }
+        ]
+    }
+]
